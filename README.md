@@ -168,16 +168,17 @@ Found a bug or have an idea for improvement?
 
 [Open an issue on GitHub](https://github.com/Mr-B1nary/Space_battle/issues).
 
-Please include a clear description of the problem and the steps needed to reproduce it.
+👨‍💻 Developed by Mr-B1nary
 
-## 📄 License
-
-No license has been specified yet. Until a license is added to the repository, permissions for reuse, modification, and redistribution remain subject to applicable copyright law.
-
----
-
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <strong>Built with Python. Powered by Pygame. Made for the stars.</strong>
-  <br>
-
+<a href="https://instagram.com/mr_b1nary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_b1nary" height="30" width="40" /></a>
+<a href="https://t.me/Mr_B1naryy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="mr_b1nary" height="30" width="40" /></a>
 </p>
+
+⭐ If you like this project, give it a star⭐<br>
+[![GitHub stars](https://img.shields.io/github/stars/Mr-B1nary/Timer?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mr-B1nary/Timer/stargazers)
+
+
+
+

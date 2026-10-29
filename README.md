@@ -168,6 +168,9 @@ Found a bug or have an idea for improvement?
 
 [Open an issue on GitHub](https://github.com/Mr-B1nary/Space_battle/issues).
 
+---
+<div align="center">
+  
 👨‍💻 Developed by Mr-B1nary
 
 <h3 align="center">Connect with me:</h3>
@@ -179,6 +182,6 @@ Found a bug or have an idea for improvement?
 ⭐ If you like this project, give it a star⭐<br>
 [![GitHub stars](https://img.shields.io/github/stars/Mr-B1nary/Timer?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mr-B1nary/Timer/stargazers)
 
-
+</div>
 
 

@@ -179,5 +179,5 @@ No license has been specified yet. Until a license is added to the repository, p
 <p align="center">
   <strong>Built with Python. Powered by Pygame. Made for the stars.</strong>
   <br>
-  <a href="https://github.com/Mr-B1nary/Space_battle">Explore the repository</a>
+
 </p>
